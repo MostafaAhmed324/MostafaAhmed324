@@ -2,7 +2,7 @@
 
 **Hi there, I'm a **Software Engneering** for Mobile **application Development**.**
 
-which is a minority in Egypt. Now I am studying Electrical and Computer Engineering.
+which is a minority in Egypt. Now I have a Bachelor’s degree in Electrical and Computer Engineering.
 
 **I love programming, Software Development as general and I love working using Flutter.**
 
